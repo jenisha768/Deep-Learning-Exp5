@@ -9,7 +9,6 @@ To develop a Recurrent Neural Network (RNN) model for predicting stock prices us
 ### THEORY
 
 ### Neural Network Model
-
 <img width="619" height="585" alt="image" src="https://github.com/user-attachments/assets/2a2d2729-fef2-438d-b3ef-da16309e06ba" />
 
 
@@ -108,7 +107,6 @@ plt.show()
 ### OUTPUT
 
 ### True Stock Price, Predicted Stock Price vs time
-
 <img width="722" height="565" alt="image" src="https://github.com/user-attachments/assets/a00d1e0d-d318-43d6-af12-53af47bf1578" />
 
 ### Mean Square Error:
